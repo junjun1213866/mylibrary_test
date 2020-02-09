@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mylibrary_test</string>
+    <string name="test">测试项目依赖</string>
+    <string name="add_num_a">加数:</string>
+    <string name="add_num_b">被加数:</string>
+    <string name="add_num_result">和:</string>
+    <string name="result_sure_button">计算</string>
+</resources>
